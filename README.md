@@ -51,3 +51,7 @@ Para recriar o banco:
 
 ```sql
 psql -U usuario -d postgres -f schema_sistema_centro_ajuda.sql
+
+## Database Diagram
+
+![ERD](diagrams/erd.png)
